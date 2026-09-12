@@ -1,8 +1,14 @@
-# 🏠 House Price Prediction
+🚀 Live Demo
+
+Try the House Price Prediction System:
+
+👉 https://dybbpyzly4leemjb28xvnt.streamlit.app/
+
+The application uses a machine-learning model to predict residential property prices based on location, BHK, area, bathrooms, balconies, furnishing, and property age. House Price Prediction
 
 A Machine Learning project that predicts house prices based on property details such as city, locality, BHK, area, bathrooms, balconies, furnishing, and property age.
 
-## 🛠️ Technologies Used
+Technologies Used
 
 - Python
 - Pandas
@@ -11,11 +17,11 @@ A Machine Learning project that predicts house prices based on property details 
 - Joblib
 - Streamlit
 
-## 📊 Dataset
+ Dataset
 
 The dataset contains 250 house/property records from different cities in India.
 
-### Features
+Features
 
 - City
 - Locality
@@ -26,21 +32,21 @@ The dataset contains 250 house/property records from different cities in India.
 - Furnishing
 - Property Age
 
-### Target
+ Target
 
 - Price in Lakhs (INR)
 
-## 🤖 Model
+ Model
 
 A **Random Forest Regression** model is used for house price prediction.
 
-### Model Performance
+Model Performance
 
 - MAE: ₹8.21 Lakhs
 - RMSE: ₹12.55 Lakhs
 - R² Score: 0.8884
 
-## 🚀 How to Run
+ How to Run
 
 ### 1. Clone the repository
 
